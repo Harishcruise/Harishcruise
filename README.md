@@ -13,7 +13,7 @@ Hi 👋, I'm Harish Kumaravel<br><br>🚀 Enthusiastic Entry-Level Software Deve
 # 📊 GitHub Stats:
 |Contributions & Streak|Github Stats|
 |:---:|:---:| 
-|![Prabhu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishcruise&theme=blueberry)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishcruise&theme=tokyonight)](https://github.com/Harishcruise/github-readme-stats)|
+|![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishcruise&theme=blueberry)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishcruise&theme=tokyonight)](https://github.com/Harishcruise/github-readme-stats)|
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harishcruise&theme=nord&no-frame=false&no-bg=true&margin-w=4)
@@ -21,7 +21,5 @@ Hi 👋, I'm Harish Kumaravel<br><br>🚀 Enthusiastic Entry-Level Software Deve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harishcruise&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
