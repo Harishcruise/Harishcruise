@@ -15,8 +15,6 @@ Hi 👋, I'm Harish Kumaravel<br><br>🚀 Enthusiastic Entry-Level Software Deve
 |:---:|:---:| 
 |![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishcruise&theme=blueberry)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishcruise&theme=tokyonight)](https://github.com/Harishcruise/github-readme-stats)|
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Harishcruise&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
