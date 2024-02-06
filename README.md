@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi 👋, I'm Harish Kumaravel<br><br>🚀 Enthusiastic Entry-Level Software Developer 🌟<br><br>👋 Hey there! I'm Harish Kumaravel, a coding enthusiast excited to kickstart my journey in the software development universe. With a fresh degree in Computer Science, I'm all about turning lines of code into innovative solutions. Passionate about clean design, problem-solving, and teamwork.<br><br>🔧 Languages: Java, Python, Javascript, C, C++<br>🌐 Web and App Development<br><br>Let's connect and create something awesome together! 🚀 #SoftwareDeveloper #FreshCoder
+
+👋 Hello! I'm Harish Kumaravel, a passionate software developer based in Ontario, Canada. With a strong foundation in computer science and hands-on experience in a variety of technologies, I'm dedicated to creating innovative solutions to real-world problems.
+
+🎓 Currently pursuing a Master of Applied Computing at the University of Windsor, I'm eager to apply my skills and knowledge in a professional setting. With a keen interest in Full-stack development, cloud technologies, DevOps practices, and data-driven solutions, I'm always seeking new challenges and opportunities to grow professionally.
+
+🔧 Languages: Java, Python, Javascript, C, C++, C#<br> 🌐 Web and App Development<br><br>Let's connect and create something awesome together! 🚀 #SoftwareDeveloper #FreshCoder
 
 
 ## 🌐 Socials:
