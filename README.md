@@ -33,11 +33,38 @@ I build backend and full-stack systems that move and manage large amounts of dat
 
 <div align="center">
 
-| 6M+ | 4 | 50% | 2.5 yrs |
-|:---:|:---:|:---:|:---:|
-| property records in a data migration I contributed to | source systems consolidated into one PostgreSQL database | smaller Docker images with multi-stage builds | building production backends |
+<img src="assets/stats.svg" alt="6M+ records in a data migration, 4 source systems into one database, 50% smaller Docker images, 2.5 years building production backends" width="100%"/>
+
+<sub>Click a card below to see what's behind the number.</sub>
 
 </div>
+
+<details>
+<summary><b>📦 &nbsp;6M+ records and 4 source systems: what the migration involved</b></summary>
+
+<br/>
+
+I contributed to migrating 6M+ property records from four source systems (two PostgreSQL databases, Oracle and Redshift) into one PostgreSQL database. My part included writing the migration and validation SQL. Redshift served as a faster extraction source for fields that were stored as JSON in the operational databases.
+
+</details>
+
+<details>
+<summary><b>🐳 &nbsp;50%: how the Docker images got smaller</b></summary>
+
+<br/>
+
+Multi-stage builds and hardened image security, run through GitLab CI/CD pipelines that deploy to Rancher/EKS. Quarkus also keeps application startup times low.
+
+</details>
+
+<details>
+<summary><b>⏱️ &nbsp;2.5 years: where the time went</b></summary>
+
+<br/>
+
+I joined MPAC in May 2024 as a Junior Systems Developer and moved up to Systems Developer in December 2025. The work spans Java (Quarkus) APIs on PostgreSQL, event publishing through AWS SQS, the data-access layer for a property-owner portal, and support for legacy services.
+
+</details>
 
 ---
 
