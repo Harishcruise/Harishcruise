@@ -109,12 +109,28 @@ I joined MPAC in May 2024 as a Junior Systems Developer and moved up to Systems 
 
 ## 🚀 Selected projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[e-psych](https://github.com/Harishcruise/e-psych)** | Mental-health support app with sentiment analysis, voice recognition and community features | Java |
-| **[face_recognition](https://github.com/Harishcruise/face_recognition)** | Face identification using transfer learning with a VGG-Face CNN | Python |
-| **[receipe-app](https://github.com/Harishcruise/receipe-app)** | Mobile app for exploring and cooking recipes, where chefs can post their own | React Native |
-| **[time-prediction-for-food-delivery](https://github.com/Harishcruise/time-prediction-for-food-delivery)** | Estimating food-delivery times | Python, Jupyter |
+<div align="center">
+
+<sub>Click a card to open the repository.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Harishcruise/e-psych"><img src="assets/project-e-psych.svg" alt="e-psych: Mental-health support app with sentiment analysis, voice recognition and community features. Stack: Java, Sentiment analysis, Voice recognition." width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Harishcruise/face_recognition"><img src="assets/project-face_recognition.svg" alt="face_recognition: Face identification using transfer learning with a VGG-Face CNN. Stack: Python, CNN, Transfer learning." width="100%"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Harishcruise/receipe-app"><img src="assets/project-receipe-app.svg" alt="receipe-app: Mobile app for exploring and cooking recipes, where chefs can post their own. Stack: React Native, JavaScript." width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/Harishcruise/time-prediction-for-food-delivery"><img src="assets/project-time-prediction.svg" alt="Food delivery time prediction: Estimating food-delivery times to improve delivery efficiency. Stack: Python, Jupyter Notebook." width="100%"/></a></td>
+</tr>
+</table>
+
+<div align="center">
+
+[Browse all repositories →](https://github.com/Harishcruise?tab=repositories)
+
+</div>
 
 ---
 
