@@ -41,27 +41,6 @@ I build backend and full-stack systems that move and manage large amounts of dat
 
 ---
 
-## 🧭 How data moves in the systems I work on
-
-A simplified view of my day-to-day work:
-
-```mermaid
-flowchart LR
-    A["Legacy sources<br/>PostgreSQL · Oracle · Redshift"] -->|"migrate + validate"| B[("PostgreSQL")]
-    B --> C["DATA-API<br/>Java · Quarkus"]
-    C -->|"publish events"| D{{"AWS SQS"}}
-    D --> E["Downstream applications"]
-
-    classDef src fill:#1e293b,stroke:#38bdf8,color:#e2e8f0;
-    classDef core fill:#312e81,stroke:#a78bfa,color:#ffffff;
-    classDef out fill:#064e3b,stroke:#34d399,color:#ecfdf5;
-    class A src;
-    class B,C core;
-    class D,E out;
-```
-
----
-
 ## 🧰 Toolbox
 
 <div align="center">
