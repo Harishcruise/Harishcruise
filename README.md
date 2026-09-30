@@ -1,28 +1,125 @@
-# 💫 About Me:
+<div align="center">
 
-👋 Hello! I'm Harish Kumaravel, a passionate software developer based in Ontario, Canada. With a strong foundation in computer science and hands-on experience in a variety of technologies, I'm dedicated to creating innovative solutions to real-world problems.
+<img src="assets/banner.svg" alt="Harish Kumaravel: Systems Developer at MPAC" width="100%"/>
 
-🎓 Currently pursuing a Master of Applied Computing at the University of Windsor, I'm eager to apply my skills and knowledge in a professional setting. With a keen interest in Full-stack development, cloud technologies, DevOps practices, and data-driven solutions, I'm always seeking new challenges and opportunities to grow professionally.
+<br/>
 
-🔧 Languages: Java, Python, Javascript, C, C++, C#<br> 🌐 Web and App Development<br><br>Let's connect and create something awesome together! 🚀 #SoftwareDeveloper #FreshCoder
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harish--kumaravel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-kumaravel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harish--kumaravel.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=white)](https://harish-kumaravel.netlify.app/)
 
+</div>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/harishharish119) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Altroz#2146) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harish___cruise) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-kumaravel) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/harish_cruise) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harish___cruise) 
+---
 
-![GitHub Views](https://komarev.com/ghpvc/?username=Harishcruise)
+## 👨‍💻 `whoami`
 
+```text
+$ whoami
+harish-kumaravel
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-|Contributions & Streak|Github Stats|
-|:---:|:---:| 
-|![Harish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harishcruise&theme=blueberry)| [![Prabhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harishcruise&theme=tokyonight)](https://github.com/Harishcruise/github-readme-stats)|
+$ cat about.txt
+role      : Systems Developer @ MPAC
+focus     : scalable data systems · event-driven architecture · agentic AI
+stack     : Java · Quarkus · TypeScript · Next.js · PostgreSQL · AWS · Kubernetes
+location  : Toronto area, Ontario, Canada
+learning  : LLM tool calling · agent workflows · evals
+```
 
+I build backend and full-stack systems that move and manage large amounts of data. I also use Claude Code daily for code review and to automate repetitive engineering tasks.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 📈 Work in numbers
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+| 6M+ | 4 | 50% | 2.5 yrs |
+|:---:|:---:|:---:|:---:|
+| property records in a data migration I contributed to | source systems consolidated into one PostgreSQL database | smaller Docker images with multi-stage builds | building production backends |
+
+</div>
+
+---
+
+## 🧭 How data moves in the systems I work on
+
+A simplified view of my day-to-day work:
+
+```mermaid
+flowchart LR
+    A["Legacy sources<br/>PostgreSQL · Oracle · Redshift"] -->|"migrate + validate"| B[("PostgreSQL")]
+    B --> C["DATA-API<br/>Java · Quarkus"]
+    C -->|"publish events"| D{{"AWS SQS"}}
+    D --> E["Downstream applications"]
+
+    classDef src fill:#1e293b,stroke:#38bdf8,color:#e2e8f0;
+    classDef core fill:#312e81,stroke:#a78bfa,color:#ffffff;
+    classDef out fill:#064e3b,stroke:#34d399,color:#ecfdf5;
+    class A src;
+    class B,C core;
+    class D,E out;
+```
+
+---
+
+## 🧰 Toolbox
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+</div>
+
+<details>
+<summary><b>See the full stack</b></summary>
+
+<br/>
+
+| Area | Tools |
+|---|---|
+| **Languages** | Java, TypeScript/JavaScript, Python, SQL |
+| **Backend** | Quarkus, Spring Boot, Node.js/NestJS, Flask/FastAPI |
+| **Frontend** | React, Next.js, Angular, Tailwind CSS, React Native |
+| **Data and messaging** | PostgreSQL, Oracle, Redshift, MongoDB, DynamoDB, Elasticsearch, AWS SQS, RabbitMQ |
+| **Cloud and DevOps** | AWS, Docker, Kubernetes/Rancher, GitLab CI/CD, GitHub Actions, Jenkins |
+| **Exploring now** | LLM tool calling, agent workflows, evals |
+
+</details>
+
+---
+
+## 🚀 Selected projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[e-psych](https://github.com/Harishcruise/e-psych)** | Mental-health support app with sentiment analysis, voice recognition and community features | Java |
+| **[face_recognition](https://github.com/Harishcruise/face_recognition)** | Face identification using transfer learning with a VGG-Face CNN | Python |
+| **[receipe-app](https://github.com/Harishcruise/receipe-app)** | Mobile app for exploring and cooking recipes, where chefs can post their own | React Native |
+| **[time-prediction-for-food-delivery](https://github.com/Harishcruise/time-prediction-for-food-delivery)** | Estimating food-delivery times | Python, Jupyter |
+
+---
+
+## 🌱 Currently
+
+- 🔭 Building toward **agentic AI workflows**: tool calling, multi-step agents and evaluation
+- 🧱 Deepening **system design** for distributed, event-driven systems
+- 💬 Happy to talk about data-heavy systems, platform engineering or applied AI
+
+<div align="center">
+
+<sub>Thanks for stopping by.</sub>
+
+</div>
